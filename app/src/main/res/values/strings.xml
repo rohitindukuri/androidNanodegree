@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My App Portfolio</string>
+    <string name="app_list_heading">My Nanodegree apps</string>
+    <string name="app_launch_toast">This button will launch my %1$s app</string>
+
 </resources>
